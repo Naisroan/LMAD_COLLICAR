@@ -1,0 +1,154 @@
+// Microsoft Visual C++ generated resource script.
+//
+#pragma code_page(65001)
+
+#include "resource.h"
+
+#define APSTUDIO_READONLY_SYMBOLS
+/////////////////////////////////////////////////////////////////////////////
+//
+// Generated from the TEXTINCLUDE 2 resource.
+//
+#include "winres.h"
+
+/////////////////////////////////////////////////////////////////////////////
+#undef APSTUDIO_READONLY_SYMBOLS
+
+/////////////////////////////////////////////////////////////////////////////
+// Español (México) resources
+
+#if !defined(AFX_RESOURCE_DLL) || defined(AFX_TARG_ESM)
+LANGUAGE LANG_SPANISH, SUBLANG_SPANISH_MEXICAN
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Dialog
+//
+
+DLG_MAIN DIALOGEX 0, 0, 311, 177
+STYLE DS_SETFONT | DS_CENTER | WS_POPUP | WS_SYSMENU
+EXSTYLE WS_EX_APPWINDOW
+FONT 8, "Segoe UI", 400, 0, 0x0
+BEGIN
+END
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// DESIGNINFO
+//
+
+#ifdef APSTUDIO_INVOKED
+GUIDELINES DESIGNINFO
+BEGIN
+    DLG_MAIN, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 304
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 170
+    END
+END
+#endif    // APSTUDIO_INVOKED
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// AFX_DIALOG_LAYOUT
+//
+
+DLG_MAIN AFX_DIALOG_LAYOUT
+BEGIN
+    0
+END
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Bitmap
+//
+
+IDB_BITMAP1             BITMAP                  "C:\\Users\\ianso\\Pictures\\Wallpapers\\bgPrueba.bmp"
+
+IDB_BITMAP2             BITMAP                  "C:\\Users\\ianso\\Documents\\UANL\\LMAD\\4to Semestre\\LENS\\Proyecto Final\\Recursos\\BG_PISTA_CARRERAS.bmp"
+
+IDB_BITMAP3             BITMAP                  "C:\\Users\\ianso\\Documents\\UANL\\LMAD\\4to Semestre\\LENS\\Proyecto Final\\Recursos\\Car_Sprites.bmp"
+
+IDB_BITMAP4             BITMAP                  "C:\\Users\\ianso\\Documents\\UANL\\LMAD\\4to Semestre\\LENS\\Proyecto Final\\Recursos\\Car_Sprites_02.bmp"
+
+IDB_BITMAP5             BITMAP                  "C:\\Users\\ianso\\Documents\\UANL\\LMAD\\4to Semestre\\LENS\\Proyecto Final\\Recursos\\MainCollicar01.bmp"
+
+IDB_BITMAP6             BITMAP                  "C:\\Users\\ianso\\Documents\\UANL\\LMAD\\4to Semestre\\LENS\\Proyecto Final\\Recursos\\MainCollicar02.bmp"
+
+IDB_BITMAP7             BITMAP                  "C:\\Users\\ianso\\Documents\\UANL\\LMAD\\4to Semestre\\LENS\\Proyecto Final\\Recursos\\lifebar.bmp"
+
+IDB_BITMAP8             BITMAP                  "C:\\Users\\ianso\\Documents\\UANL\\LMAD\\4to Semestre\\LENS\\Proyecto Final\\Recursos\\life.bmp"
+
+IDB_BITMAP9             BITMAP                  "C:\\Users\\ianso\\Documents\\UANL\\LMAD\\4to Semestre\\LENS\\Proyecto Final\\Recursos\\wasted.bmp"
+
+IDB_BITMAP10            BITMAP                  "C:\\Users\\ianso\\Documents\\UANL\\LMAD\\4to Semestre\\LENS\\Proyecto Final\\Recursos\\win.bmp"
+
+IDB_BITMAP11            BITMAP                  "C:\\Users\\ianso\\Documents\\UANL\\LMAD\\4to Semestre\\LENS\\Proyecto Final\\Recursos\\puntaje.bmp"
+
+IDB_BITMAP12            BITMAP                  "C:\\Users\\ianso\\Documents\\UANL\\LMAD\\4to Semestre\\LENS\\Proyecto Final\\Recursos\\Instrucciones.bmp"
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Icon
+//
+
+// Icon with lowest ID value placed first to ensure application icon
+// remains consistent on all systems.
+IDI_ICON1               ICON                    "C:\\Users\\ianso\\Documents\\UANL\\LMAD\\4to Semestre\\LENS\\Proyecto Final\\Recursos\\Icon.ico"
+
+#endif    // Español (México) resources
+/////////////////////////////////////////////////////////////////////////////
+
+
+/////////////////////////////////////////////////////////////////////////////
+// Español (España, alfabetización internacional) resources
+
+#if !defined(AFX_RESOURCE_DLL) || defined(AFX_TARG_ESN)
+LANGUAGE LANG_SPANISH, SUBLANG_SPANISH_MODERN
+
+#ifdef APSTUDIO_INVOKED
+/////////////////////////////////////////////////////////////////////////////
+//
+// TEXTINCLUDE
+//
+
+1 TEXTINCLUDE 
+BEGIN
+    "resource.h\0"
+END
+
+2 TEXTINCLUDE 
+BEGIN
+    "#include ""winres.h""\r\n"
+    "\0"
+END
+
+3 TEXTINCLUDE 
+BEGIN
+    "\r\n"
+    "\0"
+END
+
+#endif    // APSTUDIO_INVOKED
+
+#endif    // Español (España, alfabetización internacional) resources
+/////////////////////////////////////////////////////////////////////////////
+
+
+
+#ifndef APSTUDIO_INVOKED
+/////////////////////////////////////////////////////////////////////////////
+//
+// Generated from the TEXTINCLUDE 3 resource.
+//
+
+
+/////////////////////////////////////////////////////////////////////////////
+#endif    // not APSTUDIO_INVOKED
+

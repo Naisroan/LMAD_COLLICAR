@@ -1,0 +1,147 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Archivos de origen">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Archivos de encabezado">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Archivos de recursos">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Archivos de origen\Configuración">
+      <UniqueIdentifier>{8995abd3-7af4-4347-85bc-7974ea485b76}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Archivos de origen\Herramientas">
+      <UniqueIdentifier>{8bea4741-3fd3-4fcb-af1f-28441c889aff}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Archivos de origen\Herramientas\masm32">
+      <UniqueIdentifier>{6e25ee96-85fc-43bd-a375-12da7eee9235}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Archivos de origen\Herramientas\masm32\include">
+      <UniqueIdentifier>{46737296-3665-4fb6-96be-3ed5d96e314a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Archivos de origen\Herramientas\masm32\lib">
+      <UniqueIdentifier>{fa37a476-71ae-4cb9-bf24-cc7c7ea2788b}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Settings.inc">
+      <Filter>Archivos de origen\Configuración</Filter>
+    </None>
+    <None Include="Herramientas\Macros.inc">
+      <Filter>Archivos de origen\Herramientas</Filter>
+    </None>
+    <None Include="Herramientas\Constantes.inc">
+      <Filter>Archivos de origen\Herramientas</Filter>
+    </None>
+    <None Include="Herramientas\Prototipos.inc">
+      <Filter>Archivos de origen\Herramientas</Filter>
+    </None>
+    <None Include="Herramientas\masm32\include\gdi32.inc">
+      <Filter>Archivos de origen\Herramientas\masm32\include</Filter>
+    </None>
+    <None Include="Herramientas\masm32\include\glu32.inc">
+      <Filter>Archivos de origen\Herramientas\masm32\include</Filter>
+    </None>
+    <None Include="Herramientas\masm32\include\kernel32.inc">
+      <Filter>Archivos de origen\Herramientas\masm32\include</Filter>
+    </None>
+    <None Include="Herramientas\masm32\include\user32.inc">
+      <Filter>Archivos de origen\Herramientas\masm32\include</Filter>
+    </None>
+    <None Include="Herramientas\masm32\include\windows.inc">
+      <Filter>Archivos de origen\Herramientas\masm32\include</Filter>
+    </None>
+    <None Include="Herramientas\masm32\include\winextra.inc">
+      <Filter>Archivos de origen\Herramientas\masm32\include</Filter>
+    </None>
+    <None Include="Herramientas\masm32\include\masm32rt.inc">
+      <Filter>Archivos de origen\Herramientas\masm32\include</Filter>
+    </None>
+    <None Include="Herramientas\Estructuras.inc">
+      <Filter>Archivos de origen\Herramientas</Filter>
+    </None>
+    <None Include="Herramientas\masm32\include\msimg32.inc">
+      <Filter>Archivos de origen\Herramientas\masm32\include</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="resource.h">
+      <Filter>Archivos de encabezado</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="Collicar.rc">
+      <Filter>Archivos de recursos</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="..\..\Recursos\BG_PISTA_CARRERAS.bmp">
+      <Filter>Archivos de recursos</Filter>
+    </Image>
+    <Image Include="..\..\Recursos\Car_Sprites.bmp">
+      <Filter>Archivos de recursos</Filter>
+    </Image>
+    <Image Include="..\..\..\..\..\..\..\..\Pictures\Wallpapers\bgPrueba.bmp">
+      <Filter>Archivos de recursos</Filter>
+    </Image>
+    <Image Include="..\..\Recursos\Car_Sprites_02.bmp">
+      <Filter>Archivos de recursos</Filter>
+    </Image>
+    <Image Include="..\..\Recursos\MainCollicar01.bmp">
+      <Filter>Archivos de recursos</Filter>
+    </Image>
+    <Image Include="..\..\Recursos\MainCollicar02.bmp">
+      <Filter>Archivos de recursos</Filter>
+    </Image>
+    <Image Include="..\..\Recursos\Icon.ico">
+      <Filter>Archivos de recursos</Filter>
+    </Image>
+    <Image Include="..\..\Recursos\lifebar.bmp">
+      <Filter>Archivos de recursos</Filter>
+    </Image>
+    <Image Include="..\..\Recursos\life.bmp">
+      <Filter>Archivos de recursos</Filter>
+    </Image>
+    <Image Include="..\..\Recursos\wasted.bmp">
+      <Filter>Archivos de recursos</Filter>
+    </Image>
+    <Image Include="..\..\Recursos\win.bmp">
+      <Filter>Archivos de recursos</Filter>
+    </Image>
+    <Image Include="..\..\Recursos\puntaje.bmp">
+      <Filter>Archivos de recursos</Filter>
+    </Image>
+    <Image Include="..\..\Recursos\Instrucciones.bmp">
+      <Filter>Archivos de recursos</Filter>
+    </Image>
+  </ItemGroup>
+  <ItemGroup>
+    <MASM Include="main.asm">
+      <Filter>Archivos de origen</Filter>
+    </MASM>
+  </ItemGroup>
+  <ItemGroup>
+    <Library Include="Herramientas\masm32\lib\gdi32.lib">
+      <Filter>Archivos de origen\Herramientas\masm32\lib</Filter>
+    </Library>
+    <Library Include="Herramientas\masm32\lib\glu32.lib">
+      <Filter>Archivos de origen\Herramientas\masm32\lib</Filter>
+    </Library>
+    <Library Include="Herramientas\masm32\lib\kernel32.lib">
+      <Filter>Archivos de origen\Herramientas\masm32\lib</Filter>
+    </Library>
+    <Library Include="Herramientas\masm32\lib\user32.lib">
+      <Filter>Archivos de origen\Herramientas\masm32\lib</Filter>
+    </Library>
+    <Library Include="Herramientas\masm32\lib\msimg32.lib">
+      <Filter>Archivos de origen\Herramientas\masm32\lib</Filter>
+    </Library>
+    <Library Include="Herramientas\masm32\lib\XInput.lib" />
+  </ItemGroup>
+</Project>
